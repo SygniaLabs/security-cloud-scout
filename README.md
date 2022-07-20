@@ -4,7 +4,7 @@
 # About Cloud Scout
 Cloud Scout is a plugin which works on top of [BloodHound](https://github.com/BloodHoundAD/BloodHound), leveraging its visualization capabilities in order to visualize cross platform attack paths.
 
-Link to our White Paper: [link](https://sygnia.co/cloudscout)
+Link to our White Paper: [link](https://blog.sygnia.co/cloud-scout-security-tool)
 
 At this point Cloud Scout supports two frameworks [AWSPX](https://github.com/FSecureLABS/awspx) and [StormSpotter](https://github.com/Azure/Stormspotter).
 
